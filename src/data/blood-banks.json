@@ -1,0 +1,222 @@
+[
+  {
+    "id": "bb-del-1",
+    "name": "AIIMS Main Blood Bank",
+    "address": "Ansari Nagar, New Delhi",
+    "phone": "+91 11 2658 8500",
+    "lat": 28.5672,
+    "lng": 77.2100,
+    "city": "New Delhi",
+    "state": "Delhi",
+    "source": "e-RaktKosh"
+  },
+  {
+    "id": "bb-del-2",
+    "name": "Safdarjung Hospital Regional Blood Center",
+    "address": "Ring Road, Opposite AIIMS, New Delhi",
+    "phone": "+91 11 2616 5060",
+    "lat": 28.5701,
+    "lng": 77.2078,
+    "city": "New Delhi",
+    "state": "Delhi",
+    "source": "e-RaktKosh"
+  },
+  {
+    "id": "bb-del-3",
+    "name": "Red Cross Society Blood Bank",
+    "address": "1 Red Cross Road, New Delhi",
+    "phone": "+91 11 2371 6441",
+    "lat": 28.6219,
+    "lng": 77.2114,
+    "city": "New Delhi",
+    "state": "Delhi",
+    "source": "e-RaktKosh"
+  },
+  {
+    "id": "bb-del-4",
+    "name": "Sir Ganga Ram Hospital Blood Bank",
+    "address": "Rajinder Nagar, New Delhi",
+    "phone": "+91 11 4225 1000",
+    "lat": 28.6385,
+    "lng": 77.1896,
+    "city": "New Delhi",
+    "state": "Delhi",
+    "source": "e-RaktKosh"
+  },
+  {
+    "id": "bb-del-5",
+    "name": "Max Super Speciality Blood Bank Saket",
+    "address": "1, 2 Press Enclave Road, Saket, New Delhi",
+    "phone": "+91 11 2651 5050",
+    "lat": 28.5284,
+    "lng": 77.2126,
+    "city": "New Delhi",
+    "state": "Delhi",
+    "source": "e-RaktKosh"
+  },
+  {
+    "id": "bb-blr-1",
+    "name": "Victoria Hospital Blood Bank (BMCRI)",
+    "address": "Fort Road, KR Market, Bengaluru",
+    "phone": "+91 80 2670 1150",
+    "lat": 12.9642,
+    "lng": 77.5768,
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "source": "e-RaktKosh"
+  },
+  {
+    "id": "bb-blr-2",
+    "name": "Manipal Hospital Blood Centre",
+    "address": "98 HAL Old Airport Road, Kodihalli, Bengaluru",
+    "phone": "+91 80 2502 4444",
+    "lat": 12.9592,
+    "lng": 77.6477,
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "source": "e-RaktKosh"
+  },
+  {
+    "id": "bb-blr-3",
+    "name": "Bowring & Lady Curzon Hospital Blood Bank",
+    "address": "Lady Curzon Road, Shivajinagar, Bengaluru",
+    "phone": "+91 80 2559 1325",
+    "lat": 12.9830,
+    "lng": 77.6033,
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "source": "e-RaktKosh"
+  },
+  {
+    "id": "bb-blr-4",
+    "name": "Lions Blood Bank Indira Nagar",
+    "address": "100 Feet Road, HAL 2nd Stage, Indiranagar, Bengaluru",
+    "phone": "+91 80 2525 2244",
+    "lat": 12.9719,
+    "lng": 77.6412,
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "source": "e-RaktKosh"
+  },
+  {
+    "id": "bb-bom-1",
+    "name": "KEM Hospital Blood Bank",
+    "address": "Acharya Donde Marg, Parel, Mumbai",
+    "phone": "+91 22 2410 7000",
+    "lat": 19.0024,
+    "lng": 72.8428,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "source": "e-RaktKosh"
+  },
+  {
+    "id": "bb-bom-2",
+    "name": "Tata Memorial Centre Blood Bank",
+    "address": "Dr. E Borges Road, Parel, Mumbai",
+    "phone": "+91 22 2417 7000",
+    "lat": 19.0048,
+    "lng": 72.8432,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "source": "e-RaktKosh"
+  },
+  {
+    "id": "bb-bom-3",
+    "name": "Lilavati Hospital Blood Bank",
+    "address": "A-791 Bandra Reclamation, Bandra West, Mumbai",
+    "phone": "+91 22 2675 1000",
+    "lat": 19.0518,
+    "lng": 72.8295,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "source": "e-RaktKosh"
+  },
+  {
+    "id": "bb-hyd-1",
+    "name": "Osmania General Hospital Blood Bank",
+    "address": "Afzal Gunj, Hyderabad",
+    "phone": "+91 40 2460 0146",
+    "lat": 17.3753,
+    "lng": 78.4739,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "source": "e-RaktKosh"
+  },
+  {
+    "id": "bb-hyd-2",
+    "name": "NIMS Blood Bank (Nizam's Institute)",
+    "address": "Punjagutta, Hyderabad",
+    "phone": "+91 40 2348 9000",
+    "lat": 17.4225,
+    "lng": 78.4528,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "source": "e-RaktKosh"
+  },
+  {
+    "id": "bb-chn-1",
+    "name": "Rajiv Gandhi Government General Hospital Blood Bank",
+    "address": "EVR Periyar Salai, Park Town, Chennai",
+    "phone": "+91 44 2530 5000",
+    "lat": 13.0817,
+    "lng": 80.2778,
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "source": "e-RaktKosh"
+  },
+  {
+    "id": "bb-ccu-1",
+    "name": "Calcutta Medical College Blood Bank",
+    "address": "88 College Street, Bowbazar, Kolkata",
+    "phone": "+91 33 2255 1621",
+    "lat": 22.5735,
+    "lng": 88.3639,
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "source": "e-RaktKosh"
+  },
+  {
+    "id": "bb-pun-1",
+    "name": "Sassoon General Hospital Blood Bank",
+    "address": "Near Pune Railway Station, Pune",
+    "phone": "+91 20 2612 8000",
+    "lat": 18.5284,
+    "lng": 73.8739,
+    "city": "Pune",
+    "state": "Maharashtra",
+    "source": "e-RaktKosh"
+  },
+  {
+    "id": "bb-jpr-1",
+    "name": "SMS Hospital Blood Bank",
+    "address": "JLN Marg, Jaipur",
+    "phone": "+91 141 251 8242",
+    "lat": 26.8967,
+    "lng": 75.8152,
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "source": "e-RaktKosh"
+  },
+  {
+    "id": "bb-lko-1",
+    "name": "KGMU Blood Bank (King George's Medical University)",
+    "address": "Shah Mina Road, Chowk, Lucknow",
+    "phone": "+91 522 225 7540",
+    "lat": 26.8687,
+    "lng": 80.9157,
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "source": "e-RaktKosh"
+  },
+  {
+    "id": "bb-chd-1",
+    "name": "PGIMER Rotary Blood Bank",
+    "address": "Sector 12, Chandigarh",
+    "phone": "+91 172 275 6480",
+    "lat": 30.7651,
+    "lng": 76.7766,
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "source": "e-RaktKosh"
+  }
+]
